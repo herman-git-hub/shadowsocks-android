@@ -21,7 +21,7 @@ for Android TV ([beta](https://play.google.com/apps/testing/com.github.shadowsoc
 * Rust with Android targets installed  
   `$ rustup target install armv7-linux-androideabi aarch64-linux-android i686-linux-android x86_64-linux-android`
 
-### BUILD
+### BUILDxxxx
 
 You can check whether the latest commit builds under UNIX environment by checking Travis status.
 
